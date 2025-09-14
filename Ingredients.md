@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Let's begin
 
 Flour
@@ -8,3 +9,14 @@ Eggs
 Oil
 
 Enjoy my recipe!
+=======
+Ingredients for pancakes
+
+1 cup all-purpose flour
+1 tsp baking powder
+3 tbsp sugar
+1 cups milk
+1 egg
+1 tbsp melted butter
+1 tsp vanilla extract 
+>>>>>>> 0edb317005d7217be52079f39dc28b10c1877a8d
