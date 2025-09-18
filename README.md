@@ -16,3 +16,5 @@ last line changed locally
 - 1 cup sugar  
 - 2 eggs  
 - 1 tsp vanilla
+
+This recipe is **delicious** and *easy to follow*.
