@@ -10,3 +10,9 @@ This is my favorite pancake recipe. It's easy to make and perfect for breakfast 
 Source: https://www.marthastewart.com/338185/basic-pancakes
 last line changed locally
 ### This is a REMOTE change :O
+
+### Ingredients
+- 2 cups flour  
+- 1 cup sugar  
+- 2 eggs  
+- 1 tsp vanilla
