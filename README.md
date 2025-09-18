@@ -1,3 +1,8 @@
+# My Recipe Project
+
+### About This Recipe
+This project contains a simple recipe example.
+
 # This is a LOCAL change :)
 My Favorite Recipe
 line 2 changed remotely 
